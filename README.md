@@ -17,6 +17,6 @@ Last for not least the execution will require you to have installed node.js.
 node ProtoToCs.js `<ProjectFolder>` `<ToolsFolder>`
 
 Where:
-*`<ProjectFolder>`: Is the root of your project
-*`<ToolsFolder>`: Is the folder containing protoc and grpc_csharp_plugin executables.
+* `<ProjectFolder>`: Is the root of your project
+* `<ToolsFolder>`: Is the folder containing protoc and grpc_csharp_plugin executables.
 
