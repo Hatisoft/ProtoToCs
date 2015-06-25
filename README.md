@@ -8,9 +8,9 @@ I follow a convention on my folder structure. Where the folders called protos wi
 * Raw: Contains the non compiled files (.proto files).
 * Compiled: Output folder of the compilation (.cs files).
 
-If you are using NGet for the dependencies of your project  I would recommend to use the tools that are distributed with the package gRPC Tools, in any other case during compilation you should provide the directory for two executables (protoc and grpc_csharp_plugin.exe).
+If you are using NGet for the dependencies of your project  I would recommend to use the tools that are distributed with the package [gRPC Tools](http://www.nuget.org/packages/Grpc.Tools/), in any other case during compilation you should provide the directory for two executables (protoc and grpc_csharp_plugin.exe).
 
-Last for not least the execution will require you to have installed node.js.
+Last for not least the execution will require you to have install [node.js](https://nodejs.org/).
 
 ###Run
 
