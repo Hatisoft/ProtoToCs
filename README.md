@@ -2,7 +2,7 @@
 
 This is a simple Node.js script to compile Protocol Buffers for C#
 
-##Prerequisites
+###Prerequisites
 
 I follow a convention on my folder structure. Where the folders called protos will contain two sub-folder:
 * Raw: Contains the non compiled files (.proto files).
@@ -12,7 +12,7 @@ If you are using NGet for the dependencies of your project  I would recommend to
 
 Last for not least the execution will require you to have installed node.js.
 
-##Run
+###Run
 
 node ProtoToCs.js `<ProjectFolder>` `<ToolsFolder>`
 
